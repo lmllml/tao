@@ -4,3 +4,6 @@
 [submodule "projects/rockets"]
 	path = projects/rockets
 	url = git@github.com:ottin4ttc/rockets.git
+[submodule "projects/future-web"]
+	path = projects/future-web
+	url = git@github.com:lmllml/future-web.git
