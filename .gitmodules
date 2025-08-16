@@ -1,0 +1,6 @@
+[submodule "projects/future"]
+	path = projects/future
+	url = git@github.com:lmllml/future.git
+[submodule "projects/rockets"]
+	path = projects/rockets
+	url = git@github.com:ottin4ttc/rockets.git
