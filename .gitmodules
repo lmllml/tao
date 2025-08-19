@@ -1,9 +1,12 @@
 [submodule "projects/future"]
 	path = projects/future
 	url = git@github.com:lmllml/future.git
+	branch = main
 [submodule "projects/rockets"]
 	path = projects/rockets
 	url = git@github.com:ottin4ttc/rockets.git
+	branch = main
 [submodule "projects/future-web"]
 	path = projects/future-web
 	url = git@github.com:lmllml/future-web.git
+	branch = main
