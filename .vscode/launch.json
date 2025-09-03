@@ -29,6 +29,24 @@
       "env": {
         "START_TIME": "2025-01-01T00:00:00.000Z"
       }
+    },
+    {
+      "type": "bun",
+      "internalConsoleOptions": "neverOpen",
+      "request": "launch",
+      "name": "Debug Calculate Risk Analysis",
+      "program": "${workspaceFolder}/projects/future/crypto_data_collector/scripts/calculate-risk-analysis.ts",
+      "cwd": "${workspaceFolder}/projects/future",
+      "stopOnEntry": false,
+      "watchMode": false,
+      "args": [
+        "--round-ids",
+        "round_1a6dcc50c2804516afeb02a4fad456cb",
+        "--stop-loss-levels",
+        "0",
+        "--take-profit-levels",
+        "0.1"
+      ]
     }
   ]
 }
